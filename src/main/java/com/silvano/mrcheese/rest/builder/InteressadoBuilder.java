@@ -1,4 +1,4 @@
-package com.silvano.mrcheese.rest.Builder;
+package com.silvano.mrcheese.rest.builder;
 
 import com.silvano.mrcheese.rest.model.Interessado;
 

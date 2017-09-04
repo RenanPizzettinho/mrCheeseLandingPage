@@ -1,4 +1,4 @@
-package com.silvano.mrcheese.rest.Builder;
+package com.silvano.mrcheese.rest.builder;
 
 public abstract class MrCheeseBuilder <T, E extends MrCheeseBuilder>{
 
