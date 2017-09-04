@@ -7,6 +7,13 @@
   <packaging>war</packaging>
   <build>
     <finalName>mrCheese</finalName>
+    <plugins>
+      <plugin>
+        <groupId>org.wildfly.plugins</groupId>
+        <artifactId>wildfly-maven-plugin</artifactId>
+        <version>1.0.2.Final</version>
+      </plugin>
+    </plugins>
   </build>
   <dependencies>
     <dependency>

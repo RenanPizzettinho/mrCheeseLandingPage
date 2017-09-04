@@ -1,4 +1,4 @@
-package org.mrCheese.rest.resource;
+package com.silvano.mrcheese.rest.resource;
 
 import javax.ws.rs.core.Application;
 import javax.ws.rs.ApplicationPath;
